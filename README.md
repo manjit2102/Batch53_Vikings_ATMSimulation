@@ -6,7 +6,7 @@ Develop a basic ATM simulation program in C that provides essential banking oper
 
 ## Team Details
 
-**Team Name:** Y Kings  
+**Team Name:** Vikings  
 **Batch:** 53
 
 **Team Members:**
